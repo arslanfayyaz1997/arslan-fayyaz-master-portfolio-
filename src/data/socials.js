@@ -1,0 +1,1 @@
+export const socials=[{name:'GitHub',icon:'github',url:'https://github.com/arslanfayyaz1997',active:true},{name:'LinkedIn',icon:'linkedin',url:'#',active:false},{name:'Instagram',icon:'instagram',url:'#',active:false},{name:'Facebook',icon:'facebook',url:'#',active:false},{name:'Email',icon:'mail',url:'mailto:arslanfayyaz1997@gmail.com',active:true}];

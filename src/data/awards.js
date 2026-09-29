@@ -1,0 +1,1 @@
+export const awards=[{title:'Member / Youth Representative',organization:'Youth Parliament',date:'Aug 2022',description:'Participated in youth leadership workshops, community outreach initiatives, public welfare campaigns and community events.'}];
